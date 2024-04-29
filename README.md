@@ -1,5 +1,5 @@
-# house-price-prediction
-## Predicting house prices using Linear Regression 
+
+# Predicting house prices using Linear Regression 
 This project aims to predict house prices using Linear Regression, a fundamental machine learning algorithm. Leveraging a dataset containing various features such as square footage, number of bedrooms, bathrooms, and location, the model will be trained to learn the relationship between these features and the price of houses.
 
 The repository includes:
